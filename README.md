@@ -1,2 +1,2 @@
 # Tilde-MODEL-catalan
-Tilde MODEL sentences translated into Catalan from Spanish using Apertium RBMT.
+Aligned Catalan-German Tilde MODEL corpus. Catalan sentences translated from Spanish using Apertium RBMT.
